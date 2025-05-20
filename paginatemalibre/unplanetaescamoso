@@ -18,31 +18,31 @@
 
  <!-- Project Section -->
   <div class="w3-container w3-padding-32" id="projects">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Los hogares en Cartagena</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Las familias de reptiles mas importantes</h3>
   </div>
 
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Casas de la playa</div>
+        <div class="w3-display-topleft w3-black w3-padding">Quelonios</div>
         <img src="imagenes/casadelaplaya" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Casas antiguas</div>
+        <div class="w3-display-topleft w3-black w3-padding">Escamosos</div>
         <img src="imagenes/casaantigua" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Casas de campo</div>
+        <div class="w3-display-topleft w3-black w3-padding">Saurios</div>
         <img src="imagenes/casadecampo" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Casas grandes</div>
+        <div class="w3-display-topleft w3-black w3-padding">Crocodilianos</div>
         <img src="imagenes/casagrande" alt="House" style="width:100%">
       </div>
     </div>
