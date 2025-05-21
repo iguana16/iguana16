@@ -25,25 +25,25 @@
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Quelonios: <a href="secundaria04.html" target="_blank">Información</a></div>
+        <div class="w3-display-topleft w3-black w3-padding">Quelonios:<a href="secundaria04.html" target="_blank">Información</a></div>
         <img src="imagenes/casadelaplaya" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Escamosos</div>
+        <div class="w3-display-topleft w3-black w3-padding">Escamosos:<a href="secundaria04.html" target="_blank">Información</a></div>
         <img src="imagenes/casaantigua" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Saurios</div>
+        <div class="w3-display-topleft w3-black w3-padding">Saurios:<a href="secundaria04.html" target="_blank">Información</a></div>
         <img src="imagenes/casadecampo" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Crocodilianos</div>
+        <div class="w3-display-topleft w3-black w3-padding">Crocodilianos:<a href="secundaria04.html" target="_blank">Información</a></div>
         <img src="imagenes/casagrande" alt="House" style="width:100%">
       </div>
     </div>
